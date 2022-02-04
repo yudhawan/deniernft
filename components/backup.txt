@@ -1,0 +1,19 @@
+{/*<div className="flex flex-col">
+          <div className="mt-10 lg:mt-32 self-center text-center text-3xl lg:mt-20 lg:text-left lg:w-56 text-white font-ubuntu font-bold lg:text-6xl">Discover, collect, and sell extraordinary NFTs</div>
+          <div className="flex space-x-2 self-center">
+            <button className="w-36 lg:w-40 lg:h-16 mt-6 lg:mt-14 self-center rounded-md bg-leaf text-center text-white text-xl  font-semibold hover:drop-shadow-lg font-ubuntu">Join</button>
+            <button className="w-36 lg:w-40 lg:h-16 mt-6 lg:mt-14 self-center rounded-md bg-white text-center text-leaf text-xl  font-semibold hover:drop-shadow-lg font-ubuntu">Explore</button>
+          </div>
+        </div>
+         <div className="flex flex-col lg:ml-80 lg:mt-8">
+          <div className="w-72 h-64 mt-4 lg:w-[32rem] self-center lg:h-[30rem] border-2 bg-[url('https://cdn.pixabay.com/photo/2020/05/20/03/50/gears-5193383_960_720.png')] bg-contain border-[#a0d7e7] rounded-lg">
+            <div className="flex bg-transparent cursor-pointer mt-[13.5rem] lg:mt-[27.5rem] w-full h-8 space-x-3">
+              <Image src={User2} className='rounded-full' width={34} height={34}/>
+              <div className="flex lg:flex-col space-x-2 lg:space-x-0 mt-2 lg:mt-1">
+                <div className="text-black text-xs">Lazy_Tech#12</div>
+                <div className="lg:hidden text-gray-400 text-xs">by</div>
+                <div className="text-gray-400 text-xs">rub1ck_doto</div>
+              </div>
+            </div>
+          </div>
+        </div> */}
